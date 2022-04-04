@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bottledispenserwebapi", "bottledispenserwebapi\bottledispenserwebapi.csproj", "{063FE8E5-C49A-4DD5-8322-2E4162CF3068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063FE8E5-C49A-4DD5-8322-2E4162CF3068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063FE8E5-C49A-4DD5-8322-2E4162CF3068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063FE8E5-C49A-4DD5-8322-2E4162CF3068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063FE8E5-C49A-4DD5-8322-2E4162CF3068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE40407-1019-4CD3-A08B-6D5EFE184688}
+	EndGlobalSection
+EndGlobal

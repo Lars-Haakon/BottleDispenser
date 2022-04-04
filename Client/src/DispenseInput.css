@@ -1,0 +1,26 @@
+.dispenseinput button {
+    width: 200px;
+    height: 200px;
+}
+
+#dispensecan-button {
+    background-image: url(..\\icons\\can.svg);
+}
+
+#dispensebottle-button {
+    background-image: url(..\\icons\\bottle.svg);
+}
+
+#dispensevoucher-button {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #04AA6D; /* Green */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

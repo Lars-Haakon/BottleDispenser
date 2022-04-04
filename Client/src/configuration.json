@@ -1,0 +1,9 @@
+{
+    "CLIENT_ID": "fc2df937-32e7-42c4-a0d8-d8cc014bc581",
+    "BACKEND_URL": "http://localhost:5207",
+    "CAN_PROCESSTIME": 500,
+    "BOTTLE_PROCESSTIME": 1000,
+    "VALUE_PER_CAN": 2,
+    "VALUE_PER_BOTTLE": 3,
+    "CURRENCY": "NOK"
+}
